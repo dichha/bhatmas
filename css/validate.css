@@ -1,0 +1,60 @@
+
+.banner1{
+	min-height:5em;
+	background-color:#00FFFF;
+	width: 100%;
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 10px;
+	box-shadow: 8px 8px 15px black;
+	font-size: 1.5em;
+	margin-bottom: 20px;
+
+}
+
+/* header for information*/
+.banner2{
+	min-height: 3em;
+	background-color: #00FFFF;
+	width:100%;
+	text-align: center;
+	padding-top: 7px;
+	padding-bottom: 7px;
+
+}
+
+/* for personal detail*/
+
+.info{
+	margin-top: 10px;
+	
+	font-size: bold;
+	box-shadow: 8px 8px 15px black;
+	
+}
+
+.detail{
+	padding-left: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-size: 30px;
+	word-wrap:break-word;
+}
+
+h2{
+	font-size: 2em;
+}
+
+/*responsive web design*/
+
+@media screen and (max-width: 480px) {
+   .info{
+   	width:100%;
+   	text-align: center;
+   }
+
+   .detail{
+   	padding:0px;
+   }
+
+}

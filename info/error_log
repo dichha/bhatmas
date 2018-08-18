@@ -1,0 +1,43 @@
+[16-Aug-2016 21:21:00 Europe/London] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/header.php on line 27
+[16-Aug-2016 21:21:00 Europe/London] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/header.php on line 35
+[16-Aug-2016 21:21:00 Europe/London] PHP Notice:  Undefined variable: user in /home/bhatmasc/public_html/user_d1/beta/v4/header.php on line 36
+[16-Aug-2016 21:21:00 Europe/London] PHP Notice:  Trying to get property of non-object in /home/bhatmasc/public_html/user_d1/beta/v4/header.php on line 36
+[16-Aug-2016 21:21:28 Europe/London] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/header.php on line 27
+[16-Aug-2016 21:21:28 Europe/London] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/header.php on line 35
+[16-Aug-2016 21:21:28 Europe/London] PHP Notice:  Undefined variable: user in /home/bhatmasc/public_html/user_d1/beta/v4/header.php on line 36
+[16-Aug-2016 21:21:28 Europe/London] PHP Notice:  Trying to get property of non-object in /home/bhatmasc/public_html/user_d1/beta/v4/header.php on line 36
+[16-Aug-2016 21:22:24 Europe/London] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/header.php on line 27
+[16-Aug-2016 21:22:24 Europe/London] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/header.php on line 35
+[16-Aug-2016 21:22:24 Europe/London] PHP Notice:  Undefined variable: user in /home/bhatmasc/public_html/user_d1/beta/v4/header.php on line 36
+[16-Aug-2016 21:22:24 Europe/London] PHP Notice:  Trying to get property of non-object in /home/bhatmasc/public_html/user_d1/beta/v4/header.php on line 36
+[20-Aug-2016 01:55:25 Etc/UTC] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/header.php on line 54
+[20-Aug-2016 01:55:25 Etc/UTC] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/header.php on line 62
+[20-Aug-2016 01:55:28 Etc/UTC] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/header.php on line 54
+[20-Aug-2016 01:55:28 Etc/UTC] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/header.php on line 62
+[20-Aug-2016 01:55:28 Etc/UTC] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/header.php on line 69
+[20-Aug-2016 02:01:54 Etc/UTC] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/header.php on line 27
+[20-Aug-2016 02:01:54 Etc/UTC] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/header.php on line 35
+[20-Aug-2016 02:01:54 Etc/UTC] PHP Notice:  Undefined variable: user in /home/bhatmasc/public_html/user_d1/beta/v4/header.php on line 36
+[20-Aug-2016 02:01:54 Etc/UTC] PHP Notice:  Trying to get property of non-object in /home/bhatmasc/public_html/user_d1/beta/v4/header.php on line 36
+[20-Aug-2016 14:07:00 Etc/UTC] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/header.php on line 54
+[20-Aug-2016 14:07:00 Etc/UTC] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/header.php on line 62
+[20-Aug-2016 14:07:04 Etc/UTC] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/header.php on line 54
+[20-Aug-2016 14:07:04 Etc/UTC] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/header.php on line 62
+[20-Aug-2016 14:08:46 Etc/UTC] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/header.php on line 27
+[20-Aug-2016 14:08:46 Etc/UTC] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/header.php on line 35
+[20-Aug-2016 14:08:46 Etc/UTC] PHP Notice:  Undefined variable: user in /home/bhatmasc/public_html/user_d1/beta/v4/header.php on line 36
+[20-Aug-2016 14:08:46 Etc/UTC] PHP Notice:  Trying to get property of non-object in /home/bhatmasc/public_html/user_d1/beta/v4/header.php on line 36
+[20-Aug-2016 14:10:32 Etc/UTC] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/header.php on line 40
+[20-Aug-2016 14:10:32 Etc/UTC] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/header.php on line 48
+[20-Aug-2016 14:10:32 Etc/UTC] PHP Notice:  Undefined variable: user in /home/bhatmasc/public_html/user_d1/beta/v4/header.php on line 49
+[20-Aug-2016 14:10:32 Etc/UTC] PHP Notice:  Trying to get property of non-object in /home/bhatmasc/public_html/user_d1/beta/v4/header.php on line 49
+[20-Aug-2016 14:11:18 Etc/UTC] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/header.php on line 40
+[20-Aug-2016 14:11:18 Etc/UTC] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/header.php on line 48
+[20-Aug-2016 14:11:18 Etc/UTC] PHP Notice:  Undefined variable: user in /home/bhatmasc/public_html/user_d1/beta/v4/header.php on line 49
+[20-Aug-2016 14:11:18 Etc/UTC] PHP Notice:  Trying to get property of non-object in /home/bhatmasc/public_html/user_d1/beta/v4/header.php on line 49
+[20-Aug-2016 14:15:45 Etc/UTC] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/header.php on line 40
+[20-Aug-2016 14:15:45 Etc/UTC] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/header.php on line 48
+[20-Aug-2016 14:16:21 Etc/UTC] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/header.php on line 40
+[20-Aug-2016 14:16:21 Etc/UTC] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/header.php on line 48
+[20-Aug-2016 14:17:16 Etc/UTC] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/header.php on line 40
+[20-Aug-2016 14:17:16 Etc/UTC] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/header.php on line 48

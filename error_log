@@ -1,0 +1,205 @@
+[07-Aug-2016 20:55:38 Europe/London] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bhatmasc/public_html/user_d1/beta/v4/model/cnct.php on line 9
+[07-Aug-2016 20:55:38 Europe/London] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[07-Aug-2016 20:55:38 Europe/London] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 81
+[07-Aug-2016 20:55:38 Europe/London] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[07-Aug-2016 20:55:38 Europe/London] PHP Fatal error:  Call to a member function close() on boolean in /home/bhatmasc/public_html/user_d1/beta/v4/model/cnct.php on line 16
+[07-Aug-2016 20:58:19 Europe/London] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bhatmasc/public_html/user_d1/beta/v4/model/cnct.php on line 9
+[07-Aug-2016 20:58:19 Europe/London] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[07-Aug-2016 20:58:19 Europe/London] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 81
+[07-Aug-2016 20:58:19 Europe/London] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[07-Aug-2016 20:58:19 Europe/London] PHP Fatal error:  Call to a member function close() on boolean in /home/bhatmasc/public_html/user_d1/beta/v4/model/cnct.php on line 16
+[07-Aug-2016 21:06:16 Europe/London] PHP Warning:  require_once(../../../../../bin/web_db.php): failed to open stream: No such file or directory in /home/bhatmasc/public_html/user_d1/beta/v4/model/cnct.php on line 3
+[07-Aug-2016 21:06:16 Europe/London] PHP Fatal error:  require_once(): Failed opening required '../../../../../bin/web_db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/bhatmasc/public_html/user_d1/beta/v4/model/cnct.php on line 3
+[07-Aug-2016 21:07:32 Europe/London] PHP Parse error:  syntax error, unexpected '/' in /home/bhatmasc/public_html/user_d1/beta/v4/model/cnct.php on line 2
+[07-Aug-2016 21:10:17 Europe/London] PHP Parse error:  syntax error, unexpected '/' in /home/bhatmasc/public_html/user_d1/beta/v4/model/cnct.php on line 2
+[07-Aug-2016 21:10:19 Europe/London] PHP Parse error:  syntax error, unexpected '/' in /home/bhatmasc/public_html/user_d1/beta/v4/model/cnct.php on line 2
+[07-Aug-2016 21:10:37 Europe/London] PHP Warning:  require_once(../../../../../../bin/web_db.php): failed to open stream: No such file or directory in /home/bhatmasc/public_html/user_d1/beta/v4/model/cnct.php on line 3
+[07-Aug-2016 21:10:37 Europe/London] PHP Fatal error:  require_once(): Failed opening required '../../../../../../bin/web_db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/bhatmasc/public_html/user_d1/beta/v4/model/cnct.php on line 3
+[07-Aug-2016 21:16:34 Europe/London] PHP Notice:  Undefined index: document_root in /home/bhatmasc/public_html/user_d1/beta/v4/model/cnct.php on line 3
+[07-Aug-2016 21:16:34 Europe/London] PHP Fatal error:  Class 'DB' not found in /home/bhatmasc/public_html/user_d1/beta/v4/model/cookie.php on line 9
+[07-Aug-2016 21:17:00 Europe/London] PHP Fatal error:  Class 'DB' not found in /home/bhatmasc/public_html/user_d1/beta/v4/model/cookie.php on line 9
+[07-Aug-2016 21:20:18 Europe/London] PHP Warning:  require_once($var/web_db.php): failed to open stream: No such file or directory in /home/bhatmasc/public_html/user_d1/beta/v4/model/cnct.php on line 6
+[07-Aug-2016 21:20:18 Europe/London] PHP Fatal error:  require_once(): Failed opening required '$var/web_db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/bhatmasc/public_html/user_d1/beta/v4/model/cnct.php on line 6
+[07-Aug-2016 21:20:22 Europe/London] PHP Warning:  require_once($var/web_db.php): failed to open stream: No such file or directory in /home/bhatmasc/public_html/user_d1/beta/v4/model/cnct.php on line 6
+[07-Aug-2016 21:20:22 Europe/London] PHP Fatal error:  require_once(): Failed opening required '$var/web_db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/bhatmasc/public_html/user_d1/beta/v4/model/cnct.php on line 6
+[07-Aug-2016 21:20:23 Europe/London] PHP Warning:  require_once($var/web_db.php): failed to open stream: No such file or directory in /home/bhatmasc/public_html/user_d1/beta/v4/model/cnct.php on line 6
+[07-Aug-2016 21:20:23 Europe/London] PHP Fatal error:  require_once(): Failed opening required '$var/web_db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/bhatmasc/public_html/user_d1/beta/v4/model/cnct.php on line 6
+[07-Aug-2016 21:20:25 Europe/London] PHP Warning:  require_once($var/web_db.php): failed to open stream: No such file or directory in /home/bhatmasc/public_html/user_d1/beta/v4/model/cnct.php on line 6
+[07-Aug-2016 21:20:25 Europe/London] PHP Fatal error:  require_once(): Failed opening required '$var/web_db.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/bhatmasc/public_html/user_d1/beta/v4/model/cnct.php on line 6
+[07-Aug-2016 21:21:40 Europe/London] PHP Fatal error:  Class 'DB' not found in /home/bhatmasc/public_html/user_d1/beta/v4/model/cookie.php on line 9
+[07-Aug-2016 21:22:41 Europe/London] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[07-Aug-2016 21:22:41 Europe/London] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 81
+[07-Aug-2016 21:22:41 Europe/London] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[07-Aug-2016 21:23:01 Europe/London] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[07-Aug-2016 21:23:01 Europe/London] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 81
+[07-Aug-2016 21:23:01 Europe/London] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[07-Aug-2016 21:23:03 Europe/London] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[07-Aug-2016 21:23:03 Europe/London] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 81
+[07-Aug-2016 21:23:03 Europe/London] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[07-Aug-2016 21:23:14 Europe/London] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[07-Aug-2016 21:23:14 Europe/London] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 81
+[07-Aug-2016 21:23:14 Europe/London] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[07-Aug-2016 21:23:54 Europe/London] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[07-Aug-2016 21:23:54 Europe/London] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 81
+[07-Aug-2016 21:23:54 Europe/London] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[07-Aug-2016 21:25:56 Europe/London] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[07-Aug-2016 21:25:56 Europe/London] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 81
+[07-Aug-2016 21:25:56 Europe/London] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[07-Aug-2016 21:36:38 Europe/London] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[07-Aug-2016 21:36:38 Europe/London] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 81
+[07-Aug-2016 21:36:38 Europe/London] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[07-Aug-2016 21:49:42 Europe/London] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[07-Aug-2016 21:49:42 Europe/London] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 69
+[07-Aug-2016 21:49:42 Europe/London] PHP Notice:  Undefined variable: username in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 70
+[07-Aug-2016 21:49:42 Europe/London] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[07-Aug-2016 21:49:56 Europe/London] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[07-Aug-2016 21:49:56 Europe/London] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 69
+[07-Aug-2016 21:49:56 Europe/London] PHP Notice:  Undefined variable: username in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 70
+[07-Aug-2016 21:49:56 Europe/London] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[07-Aug-2016 21:50:07 Europe/London] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[07-Aug-2016 21:50:07 Europe/London] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 69
+[07-Aug-2016 21:50:07 Europe/London] PHP Notice:  Undefined variable: username in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 70
+[07-Aug-2016 21:50:07 Europe/London] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[07-Aug-2016 21:50:09 Europe/London] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[07-Aug-2016 21:50:09 Europe/London] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 69
+[07-Aug-2016 21:50:09 Europe/London] PHP Notice:  Undefined variable: username in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 70
+[07-Aug-2016 21:50:09 Europe/London] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[07-Aug-2016 21:50:10 Europe/London] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[07-Aug-2016 21:50:10 Europe/London] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 69
+[07-Aug-2016 21:50:10 Europe/London] PHP Notice:  Undefined variable: username in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 70
+[07-Aug-2016 21:50:10 Europe/London] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[07-Aug-2016 21:50:12 Europe/London] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[07-Aug-2016 21:50:12 Europe/London] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 69
+[07-Aug-2016 21:50:12 Europe/London] PHP Notice:  Undefined variable: username in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 70
+[07-Aug-2016 21:50:12 Europe/London] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[07-Aug-2016 22:30:50 Europe/London] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[07-Aug-2016 22:30:50 Europe/London] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 69
+[07-Aug-2016 22:30:50 Europe/London] PHP Notice:  Undefined variable: username in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 70
+[07-Aug-2016 22:30:50 Europe/London] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[08-Aug-2016 14:05:19 Europe/London] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[08-Aug-2016 14:05:19 Europe/London] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 81
+[08-Aug-2016 14:05:19 Europe/London] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[08-Aug-2016 14:05:26 Europe/London] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[08-Aug-2016 14:05:26 Europe/London] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 81
+[08-Aug-2016 14:05:26 Europe/London] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[08-Aug-2016 14:05:39 Europe/London] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[08-Aug-2016 14:05:39 Europe/London] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 69
+[08-Aug-2016 14:05:39 Europe/London] PHP Notice:  Undefined variable: username in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 70
+[08-Aug-2016 14:05:39 Europe/London] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[08-Aug-2016 14:08:11 Europe/London] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[08-Aug-2016 14:08:11 Europe/London] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 69
+[08-Aug-2016 14:08:11 Europe/London] PHP Notice:  Undefined variable: username in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 70
+[08-Aug-2016 14:08:11 Europe/London] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[08-Aug-2016 14:08:31 Europe/London] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[08-Aug-2016 14:08:31 Europe/London] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 81
+[08-Aug-2016 14:08:31 Europe/London] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[08-Aug-2016 14:08:37 Europe/London] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[08-Aug-2016 14:08:37 Europe/London] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 81
+[08-Aug-2016 14:08:37 Europe/London] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[08-Aug-2016 14:10:00 Europe/London] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[08-Aug-2016 14:10:00 Europe/London] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 81
+[08-Aug-2016 14:10:00 Europe/London] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[08-Aug-2016 14:10:14 Europe/London] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[08-Aug-2016 14:10:14 Europe/London] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 69
+[08-Aug-2016 14:10:14 Europe/London] PHP Notice:  Undefined variable: username in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 70
+[08-Aug-2016 14:10:14 Europe/London] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[08-Aug-2016 14:10:19 Europe/London] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[08-Aug-2016 14:10:19 Europe/London] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 69
+[08-Aug-2016 14:10:19 Europe/London] PHP Notice:  Undefined variable: username in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 70
+[08-Aug-2016 14:10:19 Europe/London] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[08-Aug-2016 14:13:12 Europe/London] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[08-Aug-2016 14:13:12 Europe/London] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 69
+[08-Aug-2016 14:13:12 Europe/London] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[08-Aug-2016 14:13:19 Europe/London] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[08-Aug-2016 14:13:19 Europe/London] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 69
+[08-Aug-2016 14:13:19 Europe/London] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[08-Aug-2016 14:13:27 Europe/London] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[08-Aug-2016 14:13:27 Europe/London] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 69
+[08-Aug-2016 14:13:27 Europe/London] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[08-Aug-2016 19:34:23 Europe/London] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[08-Aug-2016 19:34:23 Europe/London] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 81
+[08-Aug-2016 19:34:23 Europe/London] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[08-Aug-2016 19:48:01 Europe/London] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[08-Aug-2016 19:48:01 Europe/London] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 81
+[08-Aug-2016 19:48:01 Europe/London] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[08-Aug-2016 21:34:04 Europe/London] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[08-Aug-2016 21:34:04 Europe/London] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 69
+[08-Aug-2016 21:34:04 Europe/London] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[08-Aug-2016 21:43:46 Europe/London] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[08-Aug-2016 21:43:46 Europe/London] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 69
+[08-Aug-2016 21:43:46 Europe/London] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[09-Aug-2016 19:22:00 Europe/London] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[09-Aug-2016 19:22:00 Europe/London] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 81
+[09-Aug-2016 19:22:00 Europe/London] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[13-Aug-2016 19:01:37 Europe/London] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[13-Aug-2016 19:01:37 Europe/London] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 81
+[13-Aug-2016 19:01:37 Europe/London] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[14-Aug-2016 21:12:52 Europe/London] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[14-Aug-2016 21:12:52 Europe/London] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 81
+[14-Aug-2016 21:12:52 Europe/London] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[16-Aug-2016 21:22:26 Europe/London] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[16-Aug-2016 21:22:26 Europe/London] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 69
+[16-Aug-2016 21:22:26 Europe/London] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[17-Aug-2016 19:29:09 Europe/London] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[17-Aug-2016 19:29:09 Europe/London] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 81
+[17-Aug-2016 19:29:09 Europe/London] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[17-Aug-2016 19:35:45 Europe/London] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[17-Aug-2016 19:35:45 Europe/London] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 81
+[17-Aug-2016 19:35:45 Europe/London] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[17-Aug-2016 19:36:14 Europe/London] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[17-Aug-2016 19:36:14 Europe/London] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 81
+[17-Aug-2016 19:36:14 Europe/London] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[17-Aug-2016 19:36:16 Europe/London] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[17-Aug-2016 19:36:16 Europe/London] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 81
+[17-Aug-2016 19:36:16 Europe/London] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[17-Aug-2016 19:36:19 Europe/London] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[17-Aug-2016 19:36:19 Europe/London] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 81
+[17-Aug-2016 19:36:19 Europe/London] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[17-Aug-2016 19:38:00 Europe/London] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[17-Aug-2016 19:38:00 Europe/London] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 81
+[17-Aug-2016 19:38:00 Europe/London] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[17-Aug-2016 20:33:07 Europe/London] PHP Warning:  require_once(../model/user.php): failed to open stream: No such file or directory in /home/bhatmasc/public_html/user_d1/beta/v4/functions/core_functions.php on line 2
+[17-Aug-2016 20:33:07 Europe/London] PHP Fatal error:  require_once(): Failed opening required '../model/user.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/bhatmasc/public_html/user_d1/beta/v4/functions/core_functions.php on line 2
+[17-Aug-2016 20:36:16 Europe/London] PHP Warning:  require_once(../model/user.php): failed to open stream: No such file or directory in /home/bhatmasc/public_html/user_d1/beta/v4/functions/core_functions.php on line 2
+[17-Aug-2016 20:36:16 Europe/London] PHP Fatal error:  require_once(): Failed opening required '../model/user.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/bhatmasc/public_html/user_d1/beta/v4/functions/core_functions.php on line 2
+[18-Aug-2016 22:15:21 Etc/UTC] PHP Warning:  require(../PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/bhatmasc/public_html/user_d1/beta/v4/model/user.php on line 8
+[18-Aug-2016 22:15:21 Etc/UTC] PHP Warning:  require(../PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/bhatmasc/public_html/user_d1/beta/v4/model/user.php on line 8
+[18-Aug-2016 22:15:21 Etc/UTC] PHP Fatal error:  require(): Failed opening required '../PHPMailer/PHPMailerAutoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/bhatmasc/public_html/user_d1/beta/v4/model/user.php on line 8
+[18-Aug-2016 22:22:36 Etc/UTC] PHP Warning:  require(model/PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/bhatmasc/public_html/user_d1/beta/v4/model/user.php on line 8
+[18-Aug-2016 22:22:36 Etc/UTC] PHP Warning:  require(model/PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/bhatmasc/public_html/user_d1/beta/v4/model/user.php on line 8
+[18-Aug-2016 22:22:36 Etc/UTC] PHP Fatal error:  require(): Failed opening required 'model/PHPMailer/PHPMailerAutoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/bhatmasc/public_html/user_d1/beta/v4/model/user.php on line 8
+[18-Aug-2016 22:24:18 Etc/UTC] PHP Warning:  require(/home/bhatmasc/public_html/user_d1/beta/v4/model/PHPMailer/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/bhatmasc/public_html/user_d1/beta/v4/model/user.php on line 8
+[18-Aug-2016 22:24:18 Etc/UTC] PHP Fatal error:  require(): Failed opening required '/home/bhatmasc/public_html/user_d1/beta/v4/model/PHPMailer/PHPMailerAutoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/bhatmasc/public_html/user_d1/beta/v4/model/user.php on line 8
+[18-Aug-2016 22:25:23 Etc/UTC] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[18-Aug-2016 22:25:23 Etc/UTC] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 81
+[18-Aug-2016 22:25:23 Etc/UTC] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[19-Aug-2016 14:22:25 Etc/UTC] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[19-Aug-2016 14:22:25 Etc/UTC] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 81
+[19-Aug-2016 14:22:25 Etc/UTC] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[19-Aug-2016 14:30:05 Etc/UTC] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[19-Aug-2016 14:30:05 Etc/UTC] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 69
+[19-Aug-2016 14:30:05 Etc/UTC] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[19-Aug-2016 14:40:11 Etc/UTC] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[19-Aug-2016 14:40:11 Etc/UTC] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 81
+[19-Aug-2016 14:40:11 Etc/UTC] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[20-Aug-2016 01:54:08 Etc/UTC] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[20-Aug-2016 01:54:08 Etc/UTC] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 81
+[20-Aug-2016 01:54:08 Etc/UTC] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[20-Aug-2016 01:54:57 Etc/UTC] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[20-Aug-2016 01:54:57 Etc/UTC] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 81
+[20-Aug-2016 01:54:57 Etc/UTC] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[20-Aug-2016 01:55:41 Etc/UTC] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[20-Aug-2016 01:55:41 Etc/UTC] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 81
+[20-Aug-2016 01:55:41 Etc/UTC] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[20-Aug-2016 01:59:58 Etc/UTC] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[20-Aug-2016 01:59:58 Etc/UTC] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 69
+[20-Aug-2016 01:59:58 Etc/UTC] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[20-Aug-2016 02:00:12 Etc/UTC] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[20-Aug-2016 02:00:12 Etc/UTC] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 69
+[20-Aug-2016 02:00:12 Etc/UTC] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[20-Aug-2016 02:00:34 Etc/UTC] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[20-Aug-2016 02:00:34 Etc/UTC] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 69
+[20-Aug-2016 02:00:34 Etc/UTC] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93
+[20-Aug-2016 14:06:54 Etc/UTC] PHP Notice:  Undefined variable: shop_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 59
+[20-Aug-2016 14:06:54 Etc/UTC] PHP Notice:  Undefined variable: login_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 81
+[20-Aug-2016 14:06:54 Etc/UTC] PHP Notice:  Undefined variable: info_active in /home/bhatmasc/public_html/user_d1/beta/v4/index.php on line 93

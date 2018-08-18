@@ -1,0 +1,444 @@
+/* body */
+body{
+	/*background-color: #CCCCCC*/
+	background-image: url('../images/diamond_eyes.png');
+}
+
+.main{
+	background-color: white;
+	width: 100%;
+}
+/* navbar */
+.navbar{
+		background-color: #21610B;
+}
+.navbar-inverse .navbar-brand {
+	color: white;
+	font-size: 20px;
+	padding-top: 4.5px;
+	text-align: center;
+}
+.navbar-inverse .navbar-nav > li > a{
+	color: white;
+	font-size: 17px
+}
+.navbar-inverse{
+	border-color: #21610B;
+}
+ul.nav li.dropdown:hover > ul.dropdown-menu{
+	display: block;
+	background-color: #BCF5A9;
+}
+.dropdown-menu>li>a{
+	color: #21610B;
+}
+.dropdown-menu >li> a:hover{
+	background-color:#21610B;
+	color:white;
+}
+.navbar-inverse .navbar-nav > .active >a{
+	background-color: #BCF5A9;
+	color:#21610B;
+}
+ul.nav li.dropdown:hover{
+	background-color: black;
+}
+ul.nav li:hover{
+	background-color: black;
+}
+.active{
+	background-color: white;
+}
+.dropdown-menu .divider{
+	background-color: #21610B;
+}
+/* container class */
+.container{
+	display: table;
+	width: 100%;
+}
+
+/* footer */
+.footer{
+	color: #21610B;
+
+}
+
+.foot_style p>a{
+	color:#007a87;
+	text-decoration:none;
+}
+
+/* btn */
+
+.col-lg-4 .special_btn{
+	width:125px;
+	height:37.5px; 
+	border-color: #007a87;
+    border-bottom-color: #004f58;
+    background-color: #007a87;
+    border-radius: 5px;
+   
+}
+
+input[type=submit].btn-block {
+    width: 100%;
+    background-color: #007a87;
+    color: white;
+}
+.btn-block{
+	width: 100%;
+    background-color: #007a87;
+    color: white;
+    border-color: #007a87;
+}
+.btn-block:hover{
+	width: 100%;
+    background-color: #007a87;
+    color: white;
+    border-color: #007a87;
+}
+
+.signup_btn{
+	width:220px;
+	height:37.5px; 
+	border-color: #007a87;
+    border-bottom-color: #004f58;
+    background-color: #007a87;
+    color: white;
+    font-size: 20px;
+    border-radius: 4px;
+
+}
+
+
+/* about page */
+#about{
+	
+	background-color: white;
+	border-style:solid;
+	border-width: 1px;
+	border-color:#E6E6E6;
+	margin-top: 3px;
+	font-size:16px;
+	display:block;
+	font-family: Circular;
+	line-height:22.88px;
+	color:rgb(86,90,92);
+}
+.about .container li.founders a{
+	color:rgb(130,136,138); 
+	text-decoration:none;
+}
+.about .container li.founders a:hover{
+	color:#D8D8D8;
+}
+
+/* search form */
+
+.form-search{
+	margin-bottom: 20px;
+}
+
+/* founder page */
+.co-foun{
+	width: 799px;
+	/*height: 690px;*/
+	background-color: white;
+	border-style:solid;
+	border-width: 1px;
+	border-color:#E6E6E6;
+	padding-top: 20px;
+	float: left;
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+}
+
+.founders .container li.about a{
+	color:rgb(130,136,138);
+	text-decoration:none;
+}
+.founders .container li.about a:hover{
+	color:#D8D8D8;
+}
+
+
+/* Terms page */
+.terms{
+	background-color: #F2EFFB;
+	width: 100%;	
+	color: rgb(86, 90, 92);
+	display: block;
+	font-family: 'Helvetica Neue';
+	font-size: 15px;
+}
+
+/* Help page*/
+.help{
+	background-color: #F2EFFB;
+	width: 100%;
+	color: rgb(86, 90, 92);
+	display: block;
+	font-family: 'Helvetica Neue';
+	font-size: 16px;
+}
+.help .container > hr{
+	color:black;
+	display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}
+.help .container li:hover{
+	cursor: pointer;
+}
+.help .container li{
+	font-size: 18px;
+}
+.help .container li div.collapse{
+	font-size: 18px;
+}
+
+
+/* Buying_info Page */
+
+.buying_info{
+	width: 100%;
+	/*background-color: #F2EFFB;*/
+}
+.buying_info .container div.info{
+	/*width: 710px;
+	height: 490px;*/
+	background-color: white;
+	border-style:solid;
+	border-width: 1px;
+	border-color:#E6E6E6;
+	padding-top: 20px;
+	color: rgb(86, 90, 92);
+	display: block;
+	font-family: 'Helvetica Neue';
+	font-size: 16px;
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+
+}
+
+.buying_info .container button.buy_info{
+	width:200px;
+	height:37.5px; 
+	border-color: #007a87;
+    border-bottom-color: #004f58;
+    background-color: #007a87;
+    font-size: 20px;
+    border-radius: 4px;
+}
+
+.buying_info .container li.sell_head > a{
+	color:#BDBDBD;
+}
+
+.buying_info .container li.sell_head > a:hover{
+	color:#D8D8D8;
+}
+.buying_info .container li.rent_head > a{
+	color:#BDBDBD;;
+}
+
+.buying_info .container li.rent_head > a:hover{
+	color:#D8D8D8);
+}
+
+
+
+/* Selling Info Page */
+.selling_info{
+	width: 100%;
+	/*background-color: #F2EFFB;*/
+}
+.selling_info .container div.info{
+	background-color: white;
+	border-style:solid;
+	border-width: 1px;
+	border-color:#E6E6E6;
+	padding-top: 20px;
+	color: rgb(86, 90, 92);
+	display: block;
+	font-family: 'Helvetica Neue';
+	font-size: 16px;
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+
+}
+button.sell_info{
+	width:200px;
+	height:37.5px; 
+	border-color: #007a87;
+    /*border-bottom-color: #004f58;*/
+    background-color: #007a87;
+    /*color: white;*/
+    font-weight:bold;
+    font-size: 20px;
+    border-radius: 4px;
+
+}
+.selling_info .container li.buy_head > a{
+	color:#BDBDBD;
+}
+
+.selling_info .container li.buy_head > a:hover{
+	color:#D8D8D8;
+}
+.selling_info .container li.rent_head > a{
+	color:#BDBDBD;
+}
+
+.selling_info .container li.rent_head > a:hover{
+	color:#D8D8D8;
+}
+
+/* Renting_info page*/
+.renting_info{
+	width: 100%;
+	/*background-color: #F2EFFB;*/
+}
+.renting_info .container div.info{
+	background-color: white;
+	border-style:solid;
+	border-width: 1px;
+	border-color:#E6E6E6;
+	padding-top: 20px;
+	color: rgb(86, 90, 92);
+	display: block;
+	font-family: 'Helvetica Neue';
+	font-size: 16px;
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+
+
+
+}
+
+.renting_info .container button.rent_info{
+	width:200px;
+	height:37.5px; 
+	border-color: #007a87;
+    border-bottom-color: #004f58;
+    background-color: #007a87;
+    color: white;
+    font-weight:bold;
+    font-size: 20px;
+    border-radius: 4px;
+
+}
+.renting_info .container li.buy_head > a{
+	color:#BDBDBD;
+}
+
+.renting_info .container li.buy_head > a:hover{
+	color:#D8D8D8;
+}
+.renting_info .container li.sell_head > a{
+	color:#BDBDBD;
+}
+
+.renting_info .container li.sell_head > a:hover{
+	color:#D8D8D8;
+}
+/* item page*/
+.sale_descrip{
+	border-radius: 5px;
+    border: 0.3px solid #73AD21;
+    margin-bottom: 10px;
+    padding:10px;
+}
+.rent_descrip{
+	border-radius: 5px;
+    border: 0.3px solid #73AD21;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+/* my_basket *//*inventory*/
+.sale_summary, .rent_summary, .sale_confirm, .rent_confirm, .rent_inventory, .sale_inventory{
+	border-radius: 5px;
+    border: 0.3px solid #73AD21;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    padding:5px;
+
+}
+
+/* shop body */
+
+/* product boxes*/
+
+#product{
+	border-radius: 5px;
+    border: 0.3px solid #73AD21;
+    margin-bottom: 10px;
+    padding: 5px;
+    height: 215px;
+    overflow: hidden;
+    
+}
+
+#product-info > a > h3{
+	margin-top: 2px;
+	margin-bottom: 2px;
+	color: #007a87;
+	text-decoration: none;
+}
+#product-descrip{
+	float: left;
+	padding-top: 5px;
+	padding-right: 5px;
+	text-overflow: ellipsis;
+}
+.helper{
+	display: inline-block;
+	height: 100%;
+	vertical-align: middle;
+}
+#product-image img{
+	vertical-align: middle;
+	padding-bottom: 10px;	
+
+}
+
+
+
+/* category */
+.list-group a:hover{
+	background-color:#007a87;
+	color: white;
+}
+.list-group-item.active,
+.list-group-item.active:hover {
+	background-color:#007a87;
+	border-color:#007a87; 
+}
+
+#product > div.col-sm-7 >a{
+	color: #007a87;
+	text-decoration: none;
+}
+
+.breadcrumbs >a {
+	color: #007a87;
+	text-decoration: none;
+}
+.caption-full{
+	padding: 10px;
+}
+/** Account **/
+.account_home > div > a > p{
+	color: #007a87;		
+}
+.account_home > div > a{
+	text-decoration: none; 
+}
+.account_home > .thumb > a:hover{
+	border-color: #007a87;
+}

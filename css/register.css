@@ -1,0 +1,76 @@
+
+h1{
+	font-size:2em;
+}
+
+a:link{
+	text-decoration: none;
+}
+
+
+h2{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.aform{
+
+	margin-left: 10%;
+	margin-right: 10%;
+	font-size: 1.3em;
+	
+
+}
+
+
+input{
+	font-size: 1.5em;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	border-radius: 2px;
+
+}
+
+input::-webkit-input-placeholder{
+	padding-left: 8px;
+}
+
+select{
+	font-size: 1.5em;
+}
+
+
+
+
+
+select.error, textarea.error, input.error{
+    color:#FF0000;
+	border:2px solid #FF0000;  /* red */;
+}
+label.error {
+    color:#FF0000;
+}
+
+/* header */
+.banner1{
+background-color:  #00FFFF;
+box-shadow: 8px 8px 15px black;
+margin-bottom: 40px;
+text-align: center;
+}
+
+
+/*responsive web design*/
+
+@media screen and (max-width: 480px) {
+    input {
+        width:100%;
+        
+    }
+
+    select{
+    	display: block;
+    	width: 100%;
+    }
+
+}

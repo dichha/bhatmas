@@ -1,0 +1,60 @@
+[2016-08-08 20:12 Europe/London] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.sandbox.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 20
+Content-Type: application/x-www-form-urlencoded
+
+ for IPN payload: cmd=_notify-validate
+[2016-08-08 20:12 Europe/London] HTTP response of validation request: HTTP/1.1 200 OK
+Date: Mon, 08 Aug 2016 19:12:44 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=WK8KwyT8WqAZMBJRbJ1C-6eQ08oYHmcPP0Nltk2ZUSeneZtzBiTB-00J_UpvvEYRRFwMIYWW1cfr94IYdRuWvKAbEHwEl10-VK6DVj0Cv4iwpcgagT1chVI2E3Y91a3T4quD2AmDQB1P-AQNbhy86WGxVb7tTY-mFxLQkIcniZzWxN02yY9q66fCoMklVjy4nVXSw7YRpE9pLvhgqmZzxGW1nxnVFjXYYYwdpzM_PzMT4dNToyTBeObTIIpiZiJku6YVdO8LM8wiCfvbnaVHKlVFGCMSiIYQFVstXXXUmzedz2mD4YDaKuw0fuZ_8rvqkqippHHRjFBVGpfiyNbSD7a6jFW14acL6qtae_H3-k-g6CDyWAxfH9_HeBrDWr5rigmZGMoPUCJB3OQIdZbxk4CPgvDxscnydtCvZ3lVuvb6Nheyf5zyd8rkEty; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 06-Aug-2026 19:12:45 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 08-Aug-2018 19:12:45 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.72.108.11.1470683564985228; path=/; expires=Wed, 01-Aug-46 19:12:44 GMT
+Vary: Accept-Encoding,User-Agent
+Connection: close
+HTTP_X_PP_AZ_LOCATOR: sandbox.slc
+Paypal-Debug-Id: a13c93bcec75e
+Set-Cookie: X-PP-SILOVER=name%3DSANDBOX3.WEB.1%26silo_version%3D1880%26app%3Dappdispatcher%26TIME%3D2899945559%26HTTP_X_PP_AZ_LOCATOR%3Dsandbox.slc; Expires=Mon, 08 Aug 2016 19:42:45 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Strict-Transport-Security: max-age=14400
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+INVALID
+[2016-08-08 20:12 Europe/London] Invalid IPN: cmd=_notify-validate
+[2016-08-08 20:13 Europe/London] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.sandbox.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 1509
+Content-Type: application/x-www-form-urlencoded
+Expect: 100-continue
+
+ for IPN payload: cmd=_notify-validate&transaction%5B0%5D.is_primary_receiver=true&transaction%5B0%5D.id_for_sender_txn=3UA11538ED2180746&log_default_shipping_address_in_transaction=false&transaction%5B0%5D.receiver=prksh123%40gmail.com&action_type=CREATE&ipn_notification_url=http%3A%2F%2Fbhatmas.com%2Fuser_d1%2Fbeta%2Fv4%2Fshop%2Fpaypal_ipn.php&transaction%5B1%5D.paymentType=SERVICE&transaction%5B0%5D.amount=GBP+20.00&charset=windows-1252&transaction_type=Adaptive+Payment+PAY&transaction%5B1%5D.id_for_sender_txn=3X1817230N314183T&transaction%5B1%5D.is_primary_receiver=false&transaction%5B0%5D.status=Completed&notify_version=UNVERSIONED&transaction%5B0%5D.id=2GV15167T00749205&cancel_url=http%3A%2F%2Fbhatmas.com%2Fuser_d1%2Fbeta%2Fv4%2Fshop%2Fbuy.php&transaction%5B1%5D.status_for_sender_txn=Completed&transaction%5B1%5D.receiver=dhirendra123%40gmail.com&verify_sign=AWqdFxwN3iDiTuragzm8AHMn3grbAPCJW1FAqKtbTPczdGHF-Rar1U0Q&sender_email=bhatmashelp-buyer%40gmail.com&fees_payer=EACHRECEIVER&transaction%5B0%5D.status_for_sender_txn=Completed&return_url=http%3A%2F%2Fbhatmas.com%2Fuser_d1%2Fbeta%2Fv4%2Fshop%2Fbuy.php&transaction%5B0%5D.paymentType=SERVICE&memo=hello+world&transaction%5B1%5D.amount=GBP+18.00&reverse_all_parallel_payments_on_error=false&transaction%5B1%5D.pending_reason=NONE&pay_key=AP-5V3835359W125572K&transaction%5B1%5D.id=5J662312DD524273T&transaction%5B0%5D.pending_reason=NONE&status=COMPLETED&transaction%5B1%5D.status=Completed&test_ipn=1&payment_request_date=Mon+Aug+08+12%3A13%3A00+PDT+2016
+[2016-08-08 20:13 Europe/London] HTTP response of validation request: HTTP/1.1 100 Continue
+
+HTTP/1.1 200 OK
+Date: Mon, 08 Aug 2016 19:13:39 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=iBlTyjYrY_IfJTZY3jvmp9mTr-KskXVEoZGrV7dDUK8x_LgKJcF68DoQmKQ9WOuZkmXCYHJQ1cceyxIMCYDPMtkDR10pvb398nWNXq7kEtGQydXt31uhtAtmzzaoAHM3Yb1MzYQMPLGFaAV_f21aOqwFm5kxb5nThYiLOEAPcKWZcf8QgEiMKf1-8rKMMe5A0-GT_y5Df7Tob_tH7MB98si_IBR3WNnGEdP1-pcD26qtXBWtxNv7KgU84xeyUx7CpFeE3V1nlJPqJqCM3HdLZpvVQlS_zlk_xdOTFDZWkkYbRHrSgd7FuHyjxSn_NnMVeFI-OwQgW2LrigI0kkxZZ0YOAt3MhdmVPboxROoRq8RGxkBzG2SndiyqposNh9P1kksQZ8qvHChH_pIfsN0J5W6otuqufe7sdwXn5fO5w3ET5OjRoRLBpe8xHki; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Thu, 06-Aug-2026 19:13:40 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Wed, 08-Aug-2018 19:13:40 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.72.108.11.1470683619915860; path=/; expires=Wed, 01-Aug-46 19:13:39 GMT
+Vary: Accept-Encoding,User-Agent
+Connection: close
+HTTP_X_PP_AZ_LOCATOR: sandbox.slc
+Paypal-Debug-Id: fa6e6258db8be
+Set-Cookie: X-PP-SILOVER=name%3DSANDBOX3.WEB.1%26silo_version%3D1880%26app%3Dappdispatcher%26TIME%3D3822692439%26HTTP_X_PP_AZ_LOCATOR%3Dsandbox.slc; Expires=Mon, 08 Aug 2016 19:43:40 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Strict-Transport-Security: max-age=14400
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+VERIFIED
